@@ -12,7 +12,17 @@ choco upgrade dotnet-sdk -y
 choco upgrade dotnetcore-sdk -y
 choco upgrade wixtoolset -y
 choco upgrade python3 -y
-choco install nodejs-lts -y
+choco upgrade nodejs-lts -y
+choco upgrade vscode -y
+choco upgrade googlechrome -y
+choco upgrade sysinternals -y
+choco upgrade ruby -y
+choco upgrade visualstudio2019professional -y
+
+
+
+
+
 
 
 
